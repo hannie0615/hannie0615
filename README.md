@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Noise reduction**
 
-- 🌱 I’m currently learning **Computer Vision, NLP, STT, TTS**
+- 🌱 I’m currently learning **Computer Vision, SQL, Spring boot**
 
 - 📫 How to reach me **hannie12@keti.re.kr**
 
