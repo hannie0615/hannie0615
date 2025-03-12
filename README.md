@@ -1,11 +1,9 @@
 ### Hi there👋, I'm Hannie Shin.
-#### I'm a beginner developer, working on KETI.
 
 - 🔭 I’m currently working on **Noise reduction**
+- 🌱 I’m currently learning **Computer Vision**
 
-- 🌱 I’m currently learning **Computer Vision, SQL, Spring boot**
-
-- 📫 How to reach me **hannie12@keti.re.kr**
+- 📫 How to reach me **hannie12@korea.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
